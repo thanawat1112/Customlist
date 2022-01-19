@@ -62,7 +62,7 @@
                 android:id="@+id/name_profile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Chanchon"
+                android:text="Kuutuy"
                 android:textColor="@color/black"
                 android:textSize="26sp" />
 
@@ -95,7 +95,7 @@
                 android:id="@+id/phone_profile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="062-1319253"
+                android:text="088-0637398"
                 android:textColor="@color/black"
                 android:textSize="26sp" />
 
@@ -143,7 +143,7 @@
                 android:id="@+id/country_profile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Mahasakham"
+                android:text="Nongkhai"
                 android:textColor="@color/black"
                 android:textSize="26sp" />
 

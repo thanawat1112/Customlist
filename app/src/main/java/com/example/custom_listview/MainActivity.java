@@ -23,11 +23,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         int[] imageId = {R.drawable.a,R.drawable.b,R.drawable.c};
-        String[] name = {"Thanawat","thanakorn","natdanai"};
+        String[] name = {"Thanawat","Thanakorn","Natdanai"};
         String[] id = {"623410033-9","623410034-7","623410049-4"};
         String[] age = {"21","21","21"};
         String[] phoneNo = {"088-0637398","064-3469907","061-0953083"};
-        String[] country = {"Nongkhai","Buriram","Nongbualampuu"};
+        String[] country = {"Nongkhai","Buriram","Nongbuarampuu"};
         String[] universi = {"Khonkean University","Khonkean University","Khonkean University"};
 
         ArrayList<User> userArrayList = new ArrayList<>();
